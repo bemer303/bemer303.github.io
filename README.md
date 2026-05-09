@@ -22,3 +22,11 @@ https://github.com/bemer303/bemer303.github.io/blob/main/Spotify%20Popularity%20
 
 - Urban Air Pollution and Respiratory Health — Explored the relationship between air quality indicators and respiratory health outcomes, including asthma hospitalization patterns.
 https://github.com/bemer303/bemer303.github.io/blob/main/Urban%20Air%20Pollution%20and%20Respiratory%20Health.pdf
+
+# Contact
+
+GitHub: https://github.com/bemer303/
+
+LinkedIn: https://www.linkedin.com/in/bryan-emer/
+
+Email: bryanemer@gmail.com
